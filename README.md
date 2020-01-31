@@ -1,24 +1,27 @@
 # Psychic-Game
-### What is Psychic-Game:
+### What is a Psychic-Game:
 
-It is an app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:
-
-Steps to follow:
-
-
-- Guess what letter I'm thinking of
+It is an app that randomly picks a letter, and the player has to guess which letter the app chose. 
+This app is one of the enjoyable game if you enjoy puzzle game. It will allow player to guess what system will pick. Enjoy!
 
 
-- Wins: (# of times the user has guessed the letter correctly)
+
+How the game play:
 
 
-- Losses: (# of times the user has failed to guess the letter correctly after exhausting all guesses)
+- Guess what letter I'm thinking of. Player will start typing letter they want to guess
 
 
-- Guesses Left: (# of guesses left)
+- To Wins: (# of times the player has guessed the letter correctly)
 
 
-- Your Guesses So Far: (the specific letters that the user typed)
+- If Losses: (# of times the player has failed to guess the letter correctly after exhausting all guesses)
+
+
+- Total Guesses Left: (# of guesses left)
+
+
+- Your Guesses So Far: (the specific letters that the player typed)
 
 
 - When the player wins, increase the Wins counter and start the game over again.
@@ -26,6 +29,7 @@ Steps to follow:
 
 - When the player loses, increase the Losses counter 
 
+## __Link__:
 
 
 https://beepritchard.github.io/Psychic-Game/
