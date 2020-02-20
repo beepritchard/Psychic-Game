@@ -12,5 +12,15 @@ This app is one of the enjoyable game if you enjoy puzzle game. It will allow pl
 - Your Guesses So Far: (the specific letters that the player typed)
 - When the player wins, increase the Wins counter and start the game over again.
 - When the player loses, increase the Losses counter 
+
+## Problem has came across:
+How to work with the addEventListener() method when user input random letter
+
+## How to solve it:
+
+
+## Technical approach:
+
+
 ## Link:
 https://beepritchard.github.io/Psychic-Game/
