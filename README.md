@@ -17,10 +17,11 @@ This app is one of the enjoyable game if you enjoy puzzle game. It will allow pl
 How to work with the addEventListener() method when user input random letter
 
 ## How to solve it:
-
+By adding event listeners to any DOM object not only HTML elements. i.e the window object.
+The addEventListener() method makes it easier to control how the event reacts to bubbling.
 
 ## Technical approach:
-
+When using the addEventListener() method, the JavaScript is separated from the HTML markup, for better readability and allows you to add event listeners even when you do not control the HTML markup.
 
 ## Link:
 https://beepritchard.github.io/Psychic-Game/
